@@ -1,0 +1,133 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    /* #55493e */
+    background-color: #422D1A;
+    margin: 0px;
+    background: linear-gradient(90deg, rgba(66,45,26,1) 35%, rgba(0,0,0,1) 100%);
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: #f9f9f9;
+    text-shadow: 3px 3px #0e0e0e;
+}
+h2{
+    font-size: 30px;
+    color: #f9f9f9;
+    text-shadow: 2.1px 2.1px #0e0e0e
+}
+p{
+    color: #f9f9f9;
+    font-size: 24px;
+}
+header{
+    background-image: url(../IMG/blurred\ .jpg);
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.image > a{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.image > a > img{
+    height: 90%;
+    box-shadow: 3px 3px #0e0e0e;
+}
+.title{
+    margin-left: 5px;
+}
+.verse{
+    margin-bottom: 100px;
+}
+.wave p{
+    font-family: 'Tangerine', cursive;
+    font-size: 40px;
+}
+.mount{
+    font-family: 'Lilita One', cursive;
+}
+.ital p{
+    font-style: italic;
+}
+.bold{
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+}
+.one{
+font-size: 20px;
+}
+.wide-text{
+    letter-spacing: 4px;
+}
+.thin-text{
+    kerning: .1px;
+    letter-spacing: .1px;
+}
+.big-text p{
+    font-size: 40px;
+}
+.comic{
+    font-family: 'Comic Neue', cursive;
+}
+.rage p{
+    color: #E10000;
+}
+.rage{
+    color: #E10000;
+}
+.sharp p{
+    font-family: 'Crimson Text', serif;
+}
+.censor{
+    color: #0e0e0e;
+    background-color: #0e0e0e;
+    font-size: 40px;
+
+}
+.censor:hover{
+    background-color: none;
+    color: #f9f9f9;
+    transition: .3s;
+}
+.happy p{
+    color: #F2E008;
+    font-size: 30px;
+}
+.happy{
+    color: #F2E008;
+}
+.horny p{
+    color: #EE19AA;
+    font-size: 40px;
+}
+.sad{
+    color: #0e0e0e;
+}
+.chop p{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 30px;
+}
+.grey{
+    color: #808087;
+}
+.blue{
+    color: #4691E6;
+}
+.grand p{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 50px;
+}
